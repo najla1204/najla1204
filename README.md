@@ -1,16 +1,194 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**najla1204/najla1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Najla Fathima Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Najla%20Fathima&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Analyst%20|%20ML%20Engineer&descAlignY=55&descAlign=50)
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Backends;Exploring+LLMs+and+RAG+Pipelines;Building+IoT+Smart+Solutions;Competitive+Programming)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<div align="center">
+  <h2 align="center">B L E N D I N G &nbsp; A E S T H E T I C S &nbsp; W I T H &nbsp; L O G I C</h2>
+  <p><b>B.Tech Artificial Intelligence & Data Science Undergraduate | Sona College of Technology</b>[cite: 2, 3]</p>
+</div>
+
+<br>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://najlafathima.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najla-fathima)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachnajla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/najla1204)
+
+</div>
+
+<br>
+
+<h2 align="center">P R O F E S S I O N A L &nbsp; O V E R V I E W</h2>
+
+<blockquote>
+  <p align="justify">
+    I am an AI and Data Science professional actively pursuing my Bachelor of Technology with a rigorous focus on LLM experimentation, RAG pipelines, and prompt engineering[cite: 3]. I maintain a strong academic standing with a CGPA of 8.97 and achieved the Third Rank in the II Semester Examinations[cite: 2, 3]. My development philosophy centers on bridging complex architectural logic with clean, minimalist designs to solve high-impact business challenges[cite: 3]. Furthermore, I am deeply committed to algorithmic problem-solving, having successfully resolved over 140 problems on competitive programming platforms such as LeetCode[cite: 3].
+  </p>
+</blockquote>
+
+<br>
+
+<h2 align="center">T E C H N I C A L &nbsp; A R C H I T E C T U R E</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>MACHINE LEARNING & AI</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy&perline=3" /><br><br>
+      <small>LangChain, RAG Pipelines[cite: 3]</small>
+    </td>
+    <td width="33%" align="center">
+      <b>LANGUAGES & DATABASES</b><br><br>
+      <img src="https://skillicons.dev/icons?i=java,js,cpp,postgres,mysql,mongodb&perline=3" /><br><br>
+      <small>ChromaDB Integration[cite: 3]</small>
+    </td>
+    <td width="33%" align="center">
+      <b>CLOUD & INFRASTRUCTURE</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github&perline=3" /><br><br>
+      <small>CI/CD Pipelines[cite: 3]</small>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">I N D U S T R Y &nbsp; E X P E R I E N C E</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>DATA SCIENTIST INTERN</b><br><sup>Mindzen</sup></h3>
+      <ul>
+        <li>Cleaned and transformed more than five real-world datasets utilizing Pandas[cite: 3].</li>
+        <li>Ensured rigorous data accuracy to prepare pipelines for advanced LLM-based analysis[cite: 3].</li>
+        <li>Conducted experiments utilizing LLM APIs to fully automate data labeling and classification workflows[cite: 3].</li>
+        <li>Successfully reduced overall data processing time by approximately 30 percent while enhancing annotation efficiency[cite: 3].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>WEBSITE DEVELOPER INTERN</b><br><sup>Infinitica Technology Solutions</sup></h3>
+      <ul>
+        <li>Engineered three distinct backend modules for the GRAD360 and SENTRA digital platforms[cite: 3].</li>
+        <li>Reduced manual data handling efforts by 40 percent across evaluation and assessment tracking systems[cite: 3].</li>
+        <li>Automated core data processing pipelines to significantly improve system efficiency and reliability[cite: 3].</li>
+        <li>Optimized real-time data handling architectures[cite: 3].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">E N T E R P R I S E &nbsp; A P P L I C A T I O N S</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>APEX</b><br><sup>(AI Resume Screener & Job Match Scorer)</sup></h3>
+      <p align="justify">Developed an LLM-powered candidate screening platform by rigorously benchmarking GPT-4, Claude, and Mistral to determine the optimal model for job description alignment scoring[cite: 3]. Engineered a comprehensive RAG pipeline utilizing LangChain and ChromaDB, and successfully fine-tuned embedding models via HuggingFace to elevate retrieval precision[cite: 3].</p>
+      <p align="center"><img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>OPTITIME</b><br><sup>(Smart Timetable Generation System)</sup></h3>
+      <p align="justify">Designed and implemented an automated timetable generation architecture capable of eliminating scheduling conflicts for over 30 faculty members[cite: 3]. Integrated an LLM-assisted constraint validation layer alongside a Genetic Algorithm-based optimization engine, which successfully reduced the timetable generation process from one week to less than ten minutes[cite: 3].</p>
+      <p align="center"><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>MOTHERCARE++</b><br><sup>(Maternal & Newborn Monitor)</sup></h3>
+      <p align="justify">Architected a smart monitoring system focused on maternal and newborn health[cite: 2]. This solution integrates wearable IoT devices, advanced AI-based risk assessment protocols, and digital identity verification mechanisms to seamlessly interface with essential government health services[cite: 2].</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>SENTRA & GRAD360</b><br><sup>(Assessment Intelligence)</sup></h3>
+      <p align="justify">SENTRA is a highly customized, no-proctoring online assessment platform engineered for fair evaluations without invasive monitoring[cite: 2]. GRAD360 serves as a sophisticated test intelligence platform tailored for MBA students, providing adaptive assessments and comprehensive performance analytics[cite: 2].</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>HUMAN OS</b><br><sup>(Digital Twin Application)</sup></h3>
+      <p align="justify">Built a digital platform that provides specialized Synthesis Path recommendations. The system leverages stress-test analyses to identify and recommend the most balanced and sustainable operational options for users[cite: 2].</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>SONA COHORT</b><br><sup>(Peer Learning Network)</sup></h3>
+      <p align="justify">Developed a robust, structured platform to facilitate peer-to-peer learning within Sona College of Technology, significantly improving academic collaboration and student support networks[cite: 2].</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">C O M P E T I T I V E &nbsp; P R O G R A M M I N G</h2>
+
+<p align="justify">
+  I thrive in high-pressure development environments and have proudly served as the Team Lead across seven major hackathons at both the national and internal levels[cite: 2].
+</p>
+
+<ul>
+  <li><b>AMAZON NOVA HACKATHON:</b> Submitted "NovaBridge", an AI Agent designed for optimizing Government Benefit Access[cite: 2].</li>
+  <li><b>GEMINI 3 HACKATHON:</b> Submitted the "IDEALENS" project for evaluation[cite: 2].</li>
+  <li><b>GOOGLE TECH SPRINT:</b> Acted as Team Lead and secured the Winner position by presenting "HumanOS", a highly scalable digital interaction solution[cite: 2, 3].</li>
+  <li><b>MINI HACKATHON:</b> Won First Prize for building an AI idea under the "No Coding" framework[cite: 2].</li>
+  <li><b>ADDITIONAL PARTICIPATION:</b> Competed in the Smart India Hackathon (SIH), RIFT '26 by Physics Wallah, and the AI Project Expo[cite: 2].</li>
+</ul>
+
+<br>
+
+<h2 align="center">L E A D E R S H I P &nbsp; C O N T R I B U T I O N S</h2>
+
+<p align="justify">
+  Beyond software engineering, I am dedicated to fostering a strong technical community. I was awarded the Best Performer in the Department of Information Technology for my outstanding academic performance and overall contributions to technical initiatives during the 2025-2026 academic year[cite: 3].
+</p>
+
+<ul>
+  <li><b>ORGANIZER | SONA PROGRAMMING CLUB:</b> Facilitated coding events and algorithmic training sessions for the IT Department[cite: 2].</li>
+  <li><b>ORGANIZER | PORT 26 FULL STACK FUSION:</b> Coordinated a comprehensive workshop to train students on modern full-stack web development methodologies[cite: 2].</li>
+  <li><b>ORGANIZER | AGENTIC AI WORKSHOP:</b> Managed an intensive departmental workshop focusing on autonomous AI agents[cite: 2].</li>
+  <li><b>SPEAKER'S FORUM CHAMPION:</b> Awarded First Prize for delivering an impactful technical presentation that demonstrated exceptional public speaking and communication skills[cite: 2, 3].</li>
+</ul>
+
+<br>
+
+<h2 align="center">I N D U S T R Y &nbsp; C E R T I F I C A T I O N S</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera_Machine_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+<br>
+
+<ul>
+  <li><b>CLOUD & DEVOPS:</b> AWS Cloud Practitioner Essentials (AWS), Advanced Git (DataCamp)[cite: 2, 3].</li>
+  <li><b>AI & DATA:</b> AWS AI Practitioner Challenge (Udacity), Machine Learning Specialization (Coursera), Data Visualization & Processing (NASSCOM FutureSkills)[cite: 3].</li>
+  <li><b>SECURITY & NETWORKING:</b> Foundations of Cybersecurity (Google/Coursera), CCNA (Cisco Networking Academy)[cite: 2, 3].</li>
+</ul>
+
+
+<br>
+
+
+<h2 align="center">G I T H U B &nbsp; A N A L Y T I C S</h2>
+
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najla1204&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117)](https://github.com/najla1204)
+
+</div>
+
+<br>
+
+<div align="center">
+  <p><i>"Designing the future through meticulous code and minimalist architecture."</i></p>
+</div>
