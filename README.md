@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Creative Desinger | Software Devloper</h2>
+  <h2 align="center" >CREATIVE DESINGER | SOFTWARE DEVLOPER</h2>
 </div>
 
 <br>
