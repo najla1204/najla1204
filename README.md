@@ -1,16 +1,5 @@
 <div align="center">
-
-![Najla Fathima Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Najla%20Fathima&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Analyst%20|%20ML%20Engineer&descAlignY=55&descAlign=50)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Backends;Exploring+LLMs+and+RAG+Pipelines;Building+IoT+Smart+Solutions;Competitive+Programming)
-
-</div>
-
-<br>
-
-<div align="center">
   <h2 align="center">B L E N D I N G &nbsp; A E S T H E T I C S &nbsp; W I T H &nbsp; L O G I C</h2>
-  <p><b>B.Tech Artificial Intelligence & Data Science Undergraduate | Sona College of Technology</b></p>
 </div>
 
 <br>
