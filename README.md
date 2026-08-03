@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">B L E N D I N G &nbsp; A E S T H E T I C S &nbsp; W I T H &nbsp; L O G I C</h2>
+  <h2 align="center">Creative Desingert&nbsp; Software Devloper</h2>
 </div>
 
 <br>
@@ -51,30 +51,6 @@
 
 <h2 align="center">I N D U S T R Y &nbsp; E X P E R I E N C E</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>DATA SCIENTIST INTERN</b><br><sup>Mindzen</sup></h3>
-      <ul>
-        <li>Cleaned and transformed more than five real-world datasets utilizing Pandas.</li>
-        <li>Ensured rigorous data accuracy to prepare pipelines for advanced LLM-based analysis.</li>
-        <li>Conducted experiments utilizing LLM APIs to fully automate data labeling and classification workflows.</li>
-        <li>Successfully reduced overall data processing time by approximately 30 percent while enhancing annotation efficiency.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><b>WEBSITE DEVELOPER INTERN</b><br><sup>Infinitica Technology Solutions</sup></h3>
-      <ul>
-        <li>Engineered three distinct backend modules for the GRAD360 and SENTRA digital platforms.</li>
-        <li>Reduced manual data handling efforts by 40 percent across evaluation and assessment tracking systems.</li>
-        <li>Automated core data processing pipelines to significantly improve system efficiency and reliability.</li>
-        <li>Optimized real-time data handling architectures.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <h2 align="center">E N T E R P R I S E &nbsp; A P P L I C A T I O N S</h2>
 
@@ -113,36 +89,6 @@
   </tr>
 </table>
 
-<br>
-
-<h2 align="center">C O M P E T I T I V E &nbsp; P R O G R A M M I N G</h2>
-
-<p align="justify">
-  I thrive in high-pressure development environments and have proudly served as the Team Lead across seven major hackathons at both the national and internal levels.
-</p>
-
-<ul>
-  <li><b>AMAZON NOVA HACKATHON:</b> Submitted "NovaBridge", an AI Agent designed for optimizing Government Benefit Access.</li>
-  <li><b>GEMINI 3 HACKATHON:</b> Submitted the "IDEALENS" project for evaluation.</li>
-  <li><b>GOOGLE TECH SPRINT:</b> Acted as Team Lead and secured the Winner position by presenting "HumanOS", a highly scalable digital interaction solution.</li>
-  <li><b>MINI HACKATHON:</b> Won First Prize for building an AI idea under the "No Coding" framework.</li>
-  <li><b>ADDITIONAL PARTICIPATION:</b> Competed in the Smart India Hackathon (SIH), RIFT '26 by Physics Wallah, and the AI Project Expo.</li>
-</ul>
-
-<br>
-
-<h2 align="center">L E A D E R S H I P &nbsp; C O N T R I B U T I O N S</h2>
-
-<p align="justify">
-  Beyond software engineering, I am dedicated to fostering a strong technical community. I was awarded the Best Performer in the Department of Information Technology for my outstanding academic performance and overall contributions to technical initiatives during the 2025-2026 academic year.
-</p>
-
-<ul>
-  <li><b>ORGANIZER | SONA PROGRAMMING CLUB:</b> Facilitated coding events and algorithmic training sessions for the IT Department.</li>
-  <li><b>ORGANIZER | PORT 26 FULL STACK FUSION:</b> Coordinated a comprehensive workshop to train students on modern full-stack web development methodologies.</li>
-  <li><b>ORGANIZER | AGENTIC AI WORKSHOP:</b> Managed an intensive departmental workshop focusing on autonomous AI agents.</li>
-  <li><b>SPEAKER'S FORUM CHAMPION:</b> Awarded First Prize for delivering an impactful technical presentation that demonstrated exceptional public speaking and communication skills.</li>
-</ul>
 
 <br>
 
