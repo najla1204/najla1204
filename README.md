@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>NAJLA FATHIMA A</h1>
   <h2 align="center" >CREATIVE DESINGER | SOFTWARE DEVLOPER</h2>
 </div>
 
@@ -19,7 +20,7 @@
 
 <blockquote>
   <p align="justify">
-    I am an AI and Data Science professional actively pursuing my Bachelor of Technology with a rigorous focus on LLM experimentation, RAG pipelines, and prompt engineering. I maintain a strong academic standing with a CGPA of 8.97 and achieved the Third Rank in the II Semester Examinations. My development philosophy centers on bridging complex architectural logic with clean, minimalist designs to solve high-impact business challenges. Furthermore, I am deeply committed to algorithmic problem-solving, having successfully resolved over 140 problems on competitive programming platforms such as LeetCode.
+    AI/Data Science engineer, software developer and creative designer — building LLM-powered systems and RAG pipelines with a strong focus for clean, minimal design. I bridge complex engineering with intuitive, high-impact user experiences, turning  ideas into software that works beautifully and looks even better.
   </p>
 </blockquote>
 
@@ -32,17 +33,14 @@
     <td width="33%" align="center">
       <b>MACHINE LEARNING & AI</b><br><br>
       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy&perline=3" /><br><br>
-      <small>LangChain, RAG Pipelines</small>
     </td>
     <td width="33%" align="center">
       <b>LANGUAGES & DATABASES</b><br><br>
       <img src="https://skillicons.dev/icons?i=java,js,cpp,postgres,mysql,mongodb&perline=3" /><br><br>
-      <small>ChromaDB Integration</small>
     </td>
     <td width="33%" align="center">
       <b>CLOUD & INFRASTRUCTURE</b><br><br>
       <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github&perline=3" /><br><br>
-      <small>CI/CD Pipelines</small>
     </td>
   </tr>
 </table>
@@ -112,17 +110,6 @@
 
 <br>
 
-
-<h2 align="center">G I T H U B &nbsp; A N A L Y T I C S</h2>
-
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najla1204&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117)](https://github.com/najla1204)
-
-</div>
-
-<br>
 
 <div align="center">
   <p><i>"Designing the future through meticulous code and minimalist architecture."</i></p>
