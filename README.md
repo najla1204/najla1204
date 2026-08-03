@@ -99,13 +99,6 @@
   <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-<br>
-
-<ul>
-  <li><b>CLOUD & DEVOPS:</b> AWS Cloud Practitioner Essentials (AWS), Advanced Git (DataCamp).</li>
-  <li><b>AI & DATA:</b> AWS AI Practitioner Challenge (Udacity), Machine Learning Specialization (Coursera), Data Visualization & Processing (NASSCOM FutureSkills).</li>
-  <li><b>SECURITY & NETWORKING:</b> Foundations of Cybersecurity (Google/Coursera), CCNA (Cisco Networking Academy).</li>
-</ul>
 
 
 <br>
